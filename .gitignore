@@ -1,5 +1,7 @@
 *.git
 .git/*
 *.retry
+*.DS_Store
+*.gitignore
 
 
